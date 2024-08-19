@@ -1,2 +1,2 @@
 # BankProgram
-This is a bak account program with Python. 
+This is a bank account program with Python. 
